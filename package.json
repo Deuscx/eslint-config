@@ -1,0 +1,25 @@
+{
+  "name": "@deuscx/eslint-config",
+  "version": "0.0.1",
+  "description": "shared eslint config",
+  "private": true,
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deuscx/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "deuscx",
+  "bugs": {
+    "url": "https://github.com/Deuscx/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Deuscx/eslint-config#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.19.0",
+    "eslint": "^8.6.0"
+  }
+}
