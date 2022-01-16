@@ -1,0 +1,3 @@
+{
+    "extends": "@deuscx/eslint-config-ts"
+}

@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Deuscx/eslint-config#readme",
   "devDependencies": {
     "@changesets/cli": "^2.19.0",
-    "eslint": "^8.6.0"
+    "eslint": "^8.6.0",
+    "typescript": "^4.5.4"
   }
 }
