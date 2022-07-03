@@ -1,0 +1,23 @@
+{
+  "name": "@deuscx/eslint-config",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^8.3.0"
+  },
+  "author": "deuscx",
+  "license": "ISC",
+  "dependencies": {
+    "@antfu/eslint-config-vue": "workspace:*"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
