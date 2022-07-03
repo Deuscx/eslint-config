@@ -1,5 +1,13 @@
 # @deuscx/eslint-config-vue
 
+## 0.0.5
+
+### Patch Changes
+
+- add react to all
+- Updated dependencies
+  - @deuscx/eslint-config-ts@0.0.5
+
 ## 0.0.4
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @deuscx/eslint-config-base
 
+## 0.0.5
+
+### Patch Changes
+
+- add react to all
+
 ## 0.0.4
 
 ### Patch Changes
