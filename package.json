@@ -4,7 +4,10 @@
   "description": "shared eslint config",
   "private": true,
   "scripts": {
-    "lint": "eslint . --config=index.js"
+    "lint": "pnpm -r --parallel lint ",
+    "changeset-create": "changeset",
+    "changeset-apply": "changeset version",
+    "release": "changeset publish"
   },
   "repository": {
     "type": "git",

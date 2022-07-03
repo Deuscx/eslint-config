@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --config=index.js"
+    "lint": "eslint . --config=index.js --fix"
   },
   "publishConfig": {
     "access": "public"
@@ -15,8 +15,8 @@
   "author": "deuscx",
   "license": "ISC",
   "dependencies": {
-    "@deuscx/eslint-config-vue": "workspace:*",
-    "@deuscx/eslint-config-react": "workspace:*"
+    "@deuscx/eslint-config-vue": "^0.0.5",
+    "@deuscx/eslint-config-react": "^0.0.5"
   },
   "devDependencies": {
     "eslint": "^8.6.0"
