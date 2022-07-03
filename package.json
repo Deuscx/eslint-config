@@ -1,5 +1,5 @@
 {
-  "name": "@deuscx/eslint-config",
+  "name": "@deuscx/eslint",
   "version": "0.0.1",
   "description": "shared eslint config",
   "private": true,
