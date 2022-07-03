@@ -1,6 +1,6 @@
 {
   "name": "@deuscx/eslint-config-vue",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "eslint": "^8.6.0"
   },
   "dependencies": {
-    "@deuscx/eslint-config-ts": "^0.0.5",
+    "@deuscx/eslint-config-ts": "^0.0.6",
     "eslint-plugin-vue": "^8.2.0"
   }
 }

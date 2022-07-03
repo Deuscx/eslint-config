@@ -1,5 +1,13 @@
 # @deuscx/eslint-config-vue
 
+## 0.0.6
+
+### Patch Changes
+
+- add fix script
+- Updated dependencies
+  - @deuscx/eslint-config-ts@0.0.6
+
 ## 0.0.5
 
 ### Patch Changes

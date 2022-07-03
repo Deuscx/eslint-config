@@ -1,6 +1,6 @@
 {
   "name": "@deuscx/eslint-config-ts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "eslint": "^8.6.0"
   },
   "dependencies": {
-    "@deuscx/eslint-config-base": "^0.0.5",
+    "@deuscx/eslint-config-base": "^0.0.6",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0"
   }

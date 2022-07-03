@@ -1,6 +1,6 @@
 {
   "name": "@deuscx/eslint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "author": "deuscx",
   "license": "ISC",
   "dependencies": {
-    "@deuscx/eslint-config-vue": "^0.0.5",
-    "@deuscx/eslint-config-react": "^0.0.5"
+    "@deuscx/eslint-config-vue": "^0.0.6",
+    "@deuscx/eslint-config-react": "^0.0.6"
   },
   "devDependencies": {
     "eslint": "^8.6.0"
