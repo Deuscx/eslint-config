@@ -15,7 +15,8 @@
   "author": "deuscx",
   "license": "ISC",
   "dependencies": {
-    "@antfu/eslint-config-vue": "workspace:*"
+    "@deuscx/eslint-config-vue": "workspace:*",
+    "@deuscx/eslint-config-react": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.6.0"
